@@ -15,6 +15,7 @@ In other words, label the text snippet with: joy (1) or no joy (0), sadness (1) 
 
 [ 2 ] Code implementation ( respective code file and plots can be viewed at '/Implementation' )
 - 2.1 **main.py**: The main script containing the EmotionClassifier class and all relevant functions for text preprocessing, model training, evaluation, and prediction.
+- 2.2 Added Class UML & Over-all Flow diagrams
 
 ## Requirements
 
